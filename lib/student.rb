@@ -5,4 +5,6 @@ class Student < User
   end
   
   def learn
+    
+  end
 end
